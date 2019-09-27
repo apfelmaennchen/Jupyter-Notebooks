@@ -1,2 +1,2 @@
 # Jupyter-Notebooks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apfelmaennchen/Jupyter-Notebooks/master?filepath=binder%2FIndex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apfelmaennchen/Jupyter-Notebooks/master?filepath=Index.ipynb)
